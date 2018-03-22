@@ -19,7 +19,7 @@ Input: D
 Output:    A
           B B
          C   C
-		D     D
+	D     D
          C   C
           B B
            A
