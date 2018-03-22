@@ -2,7 +2,7 @@
 
 ## Kata Description
 
-Etant donnée une lettre, afficher un losage commencant par 'A', et ayant la lettre donnée aux sommets centraux.
+Etant donnée une lettre, afficher un losange commencant par 'A', et ayant la lettre donnée aux sommets centraux.
 
 ### Examples
 ```
