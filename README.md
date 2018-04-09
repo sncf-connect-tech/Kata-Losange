@@ -1,8 +1,8 @@
 # Kata-Losange
 
 ## Kata Description
-
-Etant donnée une lettre, afficher un losange commencant par 'A', et ayant la lettre donnée aux sommets centraux.
+Ecrire en programme en javascript qui : 
+Etant donnée une lettre, affiche un losange commencant par 'A', et ayant la lettre donnée aux sommets centraux.
 
 ### Examples
 ```
