@@ -2,6 +2,7 @@
 
 ## Kata Description
 Ecrire en programme en javascript qui : 
+
 Etant donnée une lettre, affiche un losange commencant par 'A', et ayant la lettre donnée aux sommets centraux.
 
 ### Examples
