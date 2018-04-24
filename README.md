@@ -3,7 +3,9 @@
 ## Kata Description
 Ecrire en programme en javascript qui : 
 
-Etant donnée une lettre, affiche un losange commencant par 'A', et ayant la lettre donnée aux sommets centraux.
+qui prend en entrée une lettre, affiche un losange commencant par 'A', et qui possède la lettre en entrée sur sa diagonale centrale. 
+
+![Alt text](/kata.png?raw=true "Optional Title")
 
 ### Examples
 ```
