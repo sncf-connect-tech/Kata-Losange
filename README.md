@@ -1,7 +1,7 @@
 # Kata-Losange
 
 ## Kata Description
-Ecrire en programme en javascript qui : 
+Ecrire en programme qui : 
 
 qui prend en entrée une lettre, affiche un losange commencant par 'A', et qui possède la lettre en entrée sur sa diagonale centrale. 
 
